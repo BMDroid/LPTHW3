@@ -38,10 +38,10 @@ I’d like to list some code snippets I implemented to complete the exercises in
 
    ```java
    public class PrintTest{
-   	public static void main(String[] args){
-       	int number_of_cat = 20;
-       	System.out.println("The number of cat is " + number_of_cat);
-   	}  
+     public static void main(String[] args){
+        int number_of_cat = 20;
+        System.out.println("The number of cat is " + number_of_cat);
+     }  
    }
    ```
 
