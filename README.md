@@ -1,7 +1,7 @@
 # LPTHW3
 The exercises in the Learn the Python the Hard Way 3.
 
-These project contains all the exercises from the **“Learn Python the Hard Way 3”**. Before, I start to code in Python. I knew that Python is called **“executable pseudo code”**. 
+These project contains all the exercises from the [**“Learn Python 3 the Hard Way”**](https://learnpythonthehardway.org/). Before, I start to code in Python. I knew that Python is called **“executable pseudo code”**. 
 
 Python is a such elegant programming language. Compare to the other language like Java and C, it fits the need of fast prototyping and its science libraries are so helpful for machine learning usage.
 
