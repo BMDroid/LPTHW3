@@ -34,13 +34,11 @@ I’d like to list some code snippets I implemented to complete the exercises in
    print(f"The number of cat is: {number of cat}")
    ```
 
-   In Java to print the message to the terminal needs a bit more:
+   In Java to print the message to the terminal needs a bit more works:
 
    ```java
-   public class PrintTest
-   {
-     public static void main(String[] args)
-   	{
+   public class PrintTest{
+   	public static void main(String[] args){
        	int number_of_cat = 20;
        	System.out.println("The number of cat is " + number_of_cat);
    	}  
